@@ -1,4 +1,4 @@
-# python-jupyter-notebooks
+# python-notebooks
 * This repository contains notebooks for cryptography, machine learning, and high-level computer vision.
 * To run all of the notebooks, a conda environment is needed.
 * To run some of the computer vision notebooks, PyTorch and scikit-learn libraries are needed.
